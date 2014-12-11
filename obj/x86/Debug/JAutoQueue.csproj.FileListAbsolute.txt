@@ -1,0 +1,9 @@
+C:\Users\Yellow\Downloads\VoliBotCSharp-master\VoliBotCSharp-master\bin\Release\JAutoQueue.exe.config
+C:\Users\Yellow\Downloads\VoliBotCSharp-master\VoliBotCSharp-master\bin\Release\JAutoQueue.exe
+C:\Users\Yellow\Downloads\VoliBotCSharp-master\VoliBotCSharp-master\bin\Release\JAutoQueue.pdb
+C:\Users\Yellow\Downloads\VoliBotCSharp-master\VoliBotCSharp-master\obj\x86\Debug\JAutoQueue.csprojResolveAssemblyReference.cache
+C:\Users\Yellow\Downloads\VoliBotCSharp-master\VoliBotCSharp-master\obj\x86\Debug\JAutoQueue.donate.resources
+C:\Users\Yellow\Downloads\VoliBotCSharp-master\VoliBotCSharp-master\obj\x86\Debug\JAutoQueue.Properties.Resources.resources
+C:\Users\Yellow\Downloads\VoliBotCSharp-master\VoliBotCSharp-master\obj\x86\Debug\JAutoQueue.csproj.GenerateResource.Cache
+C:\Users\Yellow\Downloads\VoliBotCSharp-master\VoliBotCSharp-master\obj\x86\Debug\JAutoQueue.exe
+C:\Users\Yellow\Downloads\VoliBotCSharp-master\VoliBotCSharp-master\obj\x86\Debug\JAutoQueue.pdb

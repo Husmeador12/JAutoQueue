@@ -1,0 +1,27 @@
+c:\users\sahin\documents\visual studio 2010\Projects\RitoBot\RitoBot\bin\Debug\RitoBot.exe
+c:\users\sahin\documents\visual studio 2010\Projects\RitoBot\RitoBot\bin\Debug\RitoBot.pdb
+c:\users\sahin\documents\visual studio 2010\Projects\RitoBot\RitoBot\obj\x86\Debug\RitoBot.exe
+c:\users\sahin\documents\visual studio 2010\Projects\RitoBot\RitoBot\obj\x86\Debug\RitoBot.pdb
+c:\users\sahin\documents\visual studio 2010\Projects\RitoBot\RitoBot\obj\x86\Debug\RitoBot.csprojResolveAssemblyReference.cache
+C:\Users\Sahin\Desktop\RitoBot\RitoBot\obj\x86\Debug\RitoBot.exe
+C:\Users\Sahin\Desktop\RitoBot\RitoBot\obj\x86\Debug\RitoBot.pdb
+C:\Users\Sahin\Desktop\RitoBot\RitoBot\bin\Debug\RitoBot.exe.config
+C:\Users\Sahin\Desktop\RitoBot\RitoBot\obj\x86\Debug\RitoBot.csprojResolveAssemblyReference.cache
+C:\Users\Sahin\Desktop\RitoBot\RitoBot\bin\Debug\RitoBot.exe
+C:\Users\Sahin\Desktop\RitoBot\RitoBot\bin\Debug\RitoBot.pdb
+C:\Users\Sahin\Desktop\RitoBot\RitoBot\bin\Debug\RitoLibs.dll
+C:\Users\Sahin\Desktop\RitoBot\RitoBot\bin\Debug\fasmdll_managed.dll
+C:\Users\Sahin\Desktop\RitoBot\RitoBot\bin\Debug\GreyMagic.dll
+C:\Users\Sahin\Desktop\RitoBot\ARAM\bin\Debug\RitoBot.exe.config
+C:\Users\Sahin\Desktop\RitoBot\ARAM\obj\x86\Debug\RitoBot.exe
+C:\Users\Sahin\Desktop\RitoBot\ARAM\obj\x86\Debug\RitoBot.pdb
+C:\Users\Sahin\Desktop\RitoBot\ARAM\bin\Debug\RitoBot.exe
+C:\Users\Sahin\Desktop\RitoBot\ARAM\bin\Debug\RitoBot.pdb
+C:\Users\Sahin\Desktop\RitoBot\ARAM\obj\x86\Debug\RitoBot.csprojResolveAssemblyReference.cache
+C:\Users\Sahin\Desktop\RitoBot\ARAM\bin\Debug\RitoLibs.dll
+C:\Users\Sahin\Desktop\RitoBot\ARAM\obj\x86\Debug\RitoBot.donate.resources
+C:\Users\Sahin\Desktop\RitoBot\ARAM\obj\x86\Debug\RitoBot.csproj.GenerateResource.Cache
+C:\Users\Sahin\Desktop\RitoBot\ARAM\obj\x86\Debug\RitoBot.Properties.Resources.resources
+C:\Users\Yellow\Downloads\VoliBotCSharp-master\VoliBotCSharp-master\bin\Release\RitoBot.exe.config
+C:\Users\Yellow\Downloads\VoliBotCSharp-master\VoliBotCSharp-master\obj\x86\Debug\RitoBot.exe
+C:\Users\Yellow\Downloads\VoliBotCSharp-master\VoliBotCSharp-master\obj\x86\Debug\RitoBot.pdb
