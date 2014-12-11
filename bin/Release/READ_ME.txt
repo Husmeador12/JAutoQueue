@@ -1,36 +1,24 @@
- ___________________________________
-|  _   _       _ _______       _    |  Thanks for using VoliBot
-| | | | |     | (_) ___ \     | |   |  VoliBot created by Maufeat
-| | | | | ___ | |_| |_/ / ___ | |_  |
-| | | | |/ _ \| | | ___ \/ _ \| __| | 
-| \ \_/ / (_) | | | |_/ / (_) | |_  |  E-Mail: sahyno1996@gmail.com
-|  \___/ \___/|_|_\____/ \___/ \__| |  Skype: misaki.epvp
-|___________________________________|  Website: http://www.volibot.com/
+_?__?_____?__?___ Put This
+_?_____?_?_____?__ Heart
+_?______?______?__ On Your
+__?_____/______?__ Page If
+___?____\_____?___ You Had
+____?___/___?_____ Your Heart
+______?_\_?_______ Broken
+________?_________…………….
 
 ## SUMMARY
-# 1. Donators
-# 2. accounts.txt Set-Up
-# 3. config.ini Set-Up
+# 1. accounts.txt Set-Up
+# 2. config.ini Set-Up
 ##
 
-## 1. Donators
-#  Donation Link: http://bit.ly/volidonate
-#  Benefits:
-#  - 1 Day early access to new versions.
-#  - Custom Champion Pick! (config.ini "ChampionPick=16" for Soraka.)
-#  - No PopUp.
-#  - Skype Support + Skype Donators Group.
-##
-
-## General Set-Up Video: https://www.youtube.com/watch?v=WTldAN-9uUY
-
-## 2. accounts.txt Set-Up
+## 1. accounts.txt Set-Up
 #  Format is: acc1|pass2|queueType
-#  Supported Queues: NORMAL_5x5, NORMAL_3x3, INTRO_BOT, BEGINNER_BOT, MEDIUM_BOT and ARAM
+#  Supported Queues: RANKED_SOLO_5x5, NORMAL_5x5, NORMAL_3x3, INTRO_BOT, BEGINNER_BOT, MEDIUM_BOT and ARAM
 #  Example: TestAccount1|TestPassword1|NORMAL_5x5
 ##
 
-## 3. config.ini Set-Up
+## 2. config.ini Set-Up
 #  LauncherPath = lol.launcher.exe path (Ex: C:\Riot Games\League of Legends\)
 #  MaxLevel = If the account reached the max level (ex. 10) then it swaps account and logs another account in the list.                             
 #  MaxBots = How much queue up at the same time?
